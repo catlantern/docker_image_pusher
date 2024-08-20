@@ -1,2 +1,2 @@
 vulhub/weblogic:12.2.1.3-2018
-vulhub/shiro:1.5.1vulhub/phpmyadmin:4.8.1  
+vulhub/shiro:1.5.1
